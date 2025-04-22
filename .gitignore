@@ -1,0 +1,12 @@
+
+# Dependency directories
+node_modules
+dist
+
+# System files
+.DS_Store
+*.log
+
+# Env files (if you ever use them)
+.env
+    
