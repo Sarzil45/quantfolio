@@ -1,0 +1,1 @@
+{'slug': 'black-scholes', 'title': 'Black-Scholes Option Pricing Tool', 'shortDescription': 'Calculate option prices using Black-Scholes model.', 'longDescription': 'This app allows users to input...', 'renderType': 'embed', 'embedUrl': 'https://your-app.streamlit.app', 'thumbnail': '/images/black-scholes.png', 'tags': ['options', 'quant']}
